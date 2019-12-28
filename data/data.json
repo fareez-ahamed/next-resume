@@ -1,0 +1,77 @@
+{
+    "name": "Fareez Ahamed",
+    "title": "ERP Lead Consultant",
+    "email": "fareez.ahamed@gmail.com",
+    "website": "www.fareez.info",
+    "mobile": "+91 99650 47073",
+    "summary": [
+        "8 years of experience as Developer",
+        "Polyglot Full Stack Web Developer with good knowledge in multiple platforms such as .Net Core, Node.js, SAP & PHP",
+        "Strong Frontend development capabilities with modern JavaScript/Typescript frameworks such as Angular, Vue & React",
+        "HTML5 Mobile development capability with Apache Cordova and Ionic framework",
+        "Very good understanding on various modern tech stack of different technologies",
+        "Open source and R&D enthusiast",
+        "Founded Laravel Meetup Group in Chennai and conducted meetups successfully"
+    ],
+    "experience": [
+        {
+            "title": "ERP Lead Consultant",
+            "company": "Mphasis",
+            "location": "Chennai",
+            "start_date": "Sep 2011",
+            "end_date": "Present"
+        },
+        {
+            "title": "ERP Lead Consultant",
+            "company": "Mphasis",
+            "location": "Chennai",
+            "start_date": "Sep 2011",
+            "end_date": "Present"
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.E.",
+            "field_of_study": "Computer Science and Engineering",
+            "institute": "Dhaanish Ahmed College of Engineering",
+            "location": "Chennai",
+            "start_date": "2007",
+            "end_date": "2011"
+        },
+        {
+            "degree": "B.E.",
+            "field_of_study": "Computer Science and Engineering",
+            "institute": "Dhaanish Ahmed College of Engineering",
+            "location": "Chennai",
+            "start_date": "2007",
+            "end_date": "2011"
+        }
+    ],
+    "skills": [
+        "React.js",
+        "Next.js",
+        "ASP.Net Core"
+    ],
+    "projects": [
+        {
+            "start_date": "Sep 2018",
+            "end_date": "Present",
+            "name": "Payment Extractor for Bank",
+            "role": "SAP ABAP Developer, Node.js Developer",
+            "points": [
+                "Payment details from FI Module / HR Payroll is extracted into the Banks own structured file and encrypted and sent to Bank for doing transaction",
+                "Created a Node.js project using Yeoman which can generate ABAP programs required for different customers if we select the options"
+            ]
+        },
+        {
+            "start_date": "Sep 2018",
+            "end_date": "Present",
+            "name": "Payment Extractor for Bank",
+            "role": "SAP ABAP Developer, Node.js Developer",
+            "points": [
+                "Payment details from FI Module / HR Payroll is extracted into the Banks own structured file and encrypted and sent to Bank for doing transaction",
+                "Created a Node.js project using Yeoman which can generate ABAP programs required for different customers if we select the options"
+            ]
+        }
+    ]
+}
